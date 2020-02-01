@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+ <channel>
+  <title><![CDATA[CNN.com - RSS Channel - App International Edition]]></title>
+  <description><![CDATA[CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.]]>
+  </description>
+  <link>
+   https://www.cnn.com/app-international-edition/index.html
+  </link>
+  <image>
+   <url>
+    http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png
+   </url>
+   <title>CNN.com - RSS Channel - App International Edition</title>
+   <link>
+    https://www.cnn.com/app-international-edition/index.html
+   </link>
+  </image>
+  <generator>
+   coredev-bumblebee
+  </generator>
+  <lastBuildDate>
+   Fri, 31 Jan 2020 18:40:18 GMT
+  </lastBuildDate>
+  <pubDate>
+   Fri, 31 Jan 2020 18:26:22 GMT
+  </pubDate>
+  <copyright><![CDATA[Copyright (c) 2020 Turner Broadcasting System, Inc. All Rights Reserved.]]>
+  </copyright>
+  <language><![CDATA[en-US]]>
+  </language>
+  <ttl>
+   10
+  </ttl>
+  <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/edition" />
+  <feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="rss/edition" />
+  <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+  <item>
+   <title><![CDATA[Key GOP vote to announce decision on witnesses]]></title>
+   <link>
+    https://cnn.it/37WilpH
+   </link>
+   <guid isPermaLink="true">
+    https://cnn.it/37WilpH
+   </guid>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110343-103-trump-lead-image-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Impeachment trial to end but its aftershocks will rock America]]></title>
+   <link>
+    https://www.cnn.com/collections/0130-impeachment-trial/
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/collections/0130-impeachment-trial/
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 18:35:02 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092959-01-donald-trump-0131-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[China slams "unfriendly" US comments on coronavirus]]></title>
+   <link>
+    https://cnn.it/37JrKAL
+   </link>
+   <guid isPermaLink="true">
+    https://cnn.it/37JrKAL
+   </guid>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131110846-05-coronavirus-0130-beijing-airport-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[As coronavirus spreads, fear is fueling racism and xenophobia]]></title>
+   <description><![CDATA[On a French newspaper's front page last weekend, big block letters announced "Yellow Alert" next to an image of a Chinese woman wearing a face mask. Another headline in the same paper read "New Yellow Peril?" above an article about the ongoing Wuhan coronavirus outbreak.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/asia/wuhan-coronavirus-racism-fear-intl-hnk/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/asia/wuhan-coronavirus-racism-fear-intl-hnk/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 14:19:21 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130155440-02-corona-virus-us-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Wuhan streets described as 'eerie.'  See what they look like now]]></title>
+   <description><![CDATA[The Wuhan coronavirus has left the streets of Wuhan, China, virtually empty. As the virus spreads to every part of China, CNN's David Culver speaks with an American college student in Shanghai who says finding food has gotten increasingly difficult.]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/world/2020/01/30/wuhan-empty-streets-lockdown-american-student-residents-culver-pkg-vpx.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/world/2020/01/30/wuhan-empty-streets-lockdown-american-student-residents-culver-pkg-vpx.cnn
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 22:02:25 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130145143-wuhan-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[2 arrested after an SUV breaches Mar-a-Lago security]]></title>
+   <link>
+    https://cnn.it/2Ub2r6F
+   </link>
+   <guid isPermaLink="true">
+    https://cnn.it/2Ub2r6F
+   </guid>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Kobe Bryant's family says inaccurate reports are adding to the pain]]></title>
+   <description><![CDATA[Kobe Bryant's family is requesting privacy following the death of the NBA star and his daughter, saying inaccurate reports are only adding to the pain for his grieving loved ones.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/us/kobe-bryant-helicopter-crash-friday/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/us/kobe-bryant-helicopter-crash-friday/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 17:18:30 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130194316-pba-kobe-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Number of Iranian students turned back at US airports is growing]]></title>
+   <description><![CDATA[They left Iran with valid visas in hand. But hours after landing in the US, they were forced to turn back on flights they never expected to take.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/us/iranian-students-deported/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/us/iranian-students-deported/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 12:40:54 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130123352-iranian-students-turned-back-passport-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Britain is leaving the European Union today. The hard part comes next.]]></title>
+   <description><![CDATA[After three-and-a-half years, three prime ministers and seemingly endless votes in Parliament since the 2016 Brexit referendum, Britain finally becomes the first ever country to leave the European Union at 11:01 p.m. GMT on Friday.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/uk/european-union-brexit-intl-gbr/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/uk/european-union-brexit-intl-gbr/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 15:47:20 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/191019171115-06-brexit-protest-1019-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Britain needs a big trade deal with Europe and wants one with America. It may end 2020 with neither]]></title>
+   <description><![CDATA[After nearly four years of profound uncertainty that hobbled the economy and unnerved investors, Britain is finally leaving the European Union. What happens next is vital for many businesses, yet the outlook isn't great.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/business/brexit-trade/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/business/brexit-trade/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 14:42:47 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131101439-brexit-eu-flags-0130-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Larry Nassar's abuse victims offered $215M]]></title>
+   <description><![CDATA[USA Gymnastics offered Larry Nassar's victims a $215 million settlement on Thursday as part of a plan for the organization to exit bankruptcy. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/us/usa-gymnastics-larry-nassar-settlements/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/us/usa-gymnastics-larry-nassar-settlements/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 14:39:05 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124103725-01-larry-nassar-0116-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Indian man killed in police shoot-out after holding 23 children hostage at fake birthday party
+]]></title>
+   <description><![CDATA[A man who held 23 children hostage after inviting them to a fake birthday party for his daughter has been killed by police in northern India, local authorities said Friday. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/india/india-hostage-children-intl-scli/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/india/india-hostage-children-intl-scli/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 16:56:57 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131132021-farrukhabad-uttar-pradesh-india-map-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Church of England apologizes for saying only married heterosexuals should have sex]]></title>
+   <description><![CDATA[Top archbishops in the Church of England have apologized for guidance issued by the church last week that said only married heterosexuals should have sex -- while same-sex or heterosexual Christians in civil partnerships should remain abstinent. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/uk/church-of-england-sex-married-intl-gbr-scli/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/uk/church-of-england-sex-married-intl-gbr-scli/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 12:52:50 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095720-archbishop-of-canterbury-justin-welby-file-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Gwyneth Paltrow's 'Goop' treatments slammed by UK health chief]]></title>
+   <description><![CDATA[A top UK health official has criticized Gwyneth Paltrow's lifestyle brand Goop for promoting treatments that pose "considerable risks to health."]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/health/goop-gwyneth-paltrow-nhs-scli-intl-gbr/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/health/goop-gwyneth-paltrow-nhs-scli-intl-gbr/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 17:38:52 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040255-gywneth-paltrow-goop-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Premier League January spending reaches $2 billion, but transfers come with a warning sign]]></title>
+   <description><![CDATA[Time and again, the January transfer window has proven to be a minefield for English Premier League clubs looking to make big money signings.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/football/deadline-day-january-transfer-window-bruno-fernandes-spt-intl/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/football/deadline-day-january-transfer-window-bruno-fernandes-spt-intl/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 13:41:08 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190203154255-alexis-sanchez-man-u-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Aston Martin has been bailed out by Formula 1 billionaire]]></title>
+   <description><![CDATA[Aston Martin has been rescued from collapse by a £500 million ($656 million) bailout led by a Formula 1 billionaire.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/business/aston-martin-bailout-lawrence-stroll/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/business/aston-martin-bailout-lawrence-stroll/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 12:58:12 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040521-lawrence-stroll-file-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[State of emergency declared in Australia capital]]></title>
+   <description><![CDATA[A state of emergency has been declared in Australia's capital city of Canberra as bushfires move rapidly in the area, according to authorities from the Australian Capital Territory (ACT). ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/australia/australia-fire-canberra-intl/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/australia/australia-fire-canberra-intl/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 14:47:34 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200123005413-05-australia-canberra-airport-intl-hnk-scli-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Record-breaking Nike shoes to be banned]]></title>
+   <description><![CDATA[A range of high-tech Nike shoes which have revolutionized running have escaped a ban, but prototypes with thick soles and several carbon fiber plates are to be outlawed in competition in a bid to preserve the integrity of athletics. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/sport/nike-world-athletics-vaporfly-alphafly-ban-spt-intl/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/sport/nike-world-athletics-vaporfly-alphafly-ban-spt-intl/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 18:20:13 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200117111505-eliud-kipchoge-nike-vaporfly-marathon-world-athletics-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Reward offered to remove tire stuck on 13ft crocodile's neck for years]]></title>
+   <description><![CDATA[A province in Indonesia is offering a reward to anyone brave enough to free an enormous wild crocodile from a motorcycle tire. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/30/asia/crocodile-indonesia-reward-intl-hnk-scli/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/30/asia/crocodile-indonesia-reward-intl-hnk-scli/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 13:05:14 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130212624-crocodile-tire-indonesia-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Peppa Pig voice actress Harley Bird to step down after 13 years]]></title>
+   <description><![CDATA[The actress who has been delighting toddlers as the voice of Peppa Pig for more than a decade is hanging up her puddle-jumping boots and stepping down from the role.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/entertainment/peppa-pig-harley-bird-intl-scli-gbr/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/entertainment/peppa-pig-harley-bird-intl-scli-gbr/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 10:18:52 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131040045-haley-bird-peppa-pig-02-restricted-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Dominic Thiem sets up first Australian Open final with victory over Alexander Zverev]]></title>
+   <description><![CDATA[Austria's Dominic Thiem will compete in his first Australian Open final after defeating Alexander Zverev 3-6 6-4 7-6 7-6.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/tennis/dominic-thiem-alexander-zverev-australian-open-tennis-spt-intl/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/tennis/dominic-thiem-alexander-zverev-australian-open-tennis-spt-intl/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 14:23:52 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131064226-dominic-thiem-australian-open-tease-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Dramatic video shows bushfire overtake firefighters]]></title>
+   <description><![CDATA[A timelapse shows just how quickly a bushfire in Australia overtook firefighters as they fought to contain it. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/world/2020/01/30/australia-bushfire-overtakes-firefighters-newsource-vpx-orig.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/world/2020/01/30/australia-bushfire-overtakes-firefighters-newsource-vpx-orig.cnn
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 23:53:57 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130102728-australia-bushfire-overtakes-firefighters-newsource-vpx-orig-00005204-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Wetlands are disappearing three times faster than forests]]></title>
+   <description><![CDATA[While musicians and movie stars campaign vocally to protect our rainforests and oceans, the world's wetlands rarely get the same level of public support. They are in many ways the planet's unglamorous, unsung heroes -- yet by one estimate wetlands are disappearing three times faster than forests. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/world/wetland-protection-c2e-intl/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/world/wetland-protection-c2e-intl/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 11:12:07 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200128143711-wetlands-capybara-pantanal-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Carli Lloyd eyes 'potential' career as kicker in NFL]]></title>
+   <description><![CDATA[Carli Lloyd has played in soccer World Cup finals. She's played in Olympic gold medal games. She's played in domestic cup finals. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/sport/carli-lloyd-nfl-super-bowl-advert-spt-intl/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/sport/carli-lloyd-nfl-super-bowl-advert-spt-intl/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 10:43:39 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/190616192101-new-lloyd-tease-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[James Corden addresses 'Carpool Karaoke' driving drama]]></title>
+   <description><![CDATA["The Late Late Show" host James Corden addressed the viral video that shows him not actually driving while filming an episode of "Carpool Karaoke."]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/media/2020/01/30/james-corden-carpool-karaoke-controversy-late-night-orig-mw-vpx.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/media/2020/01/30/james-corden-carpool-karaoke-controversy-late-night-orig-mw-vpx.cnn
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 15:39:17 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130103647-james-corden-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[First Italian city to offer $1 homes]]></title>
+   <link>
+    https://www.cnn.com/travel/article/italy-one-euro-home-taranto/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/travel/article/italy-one-euro-home-taranto/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 15:24:36 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100643-01-italy-one-euro-home-taranto-restricted-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Millions of Syrian children deprived of basic rights by war]]></title>
+   <description><![CDATA[A UN report focused solely on children in Syria states that five million have been displaced in the fighting, with nine years of war robbing them of their childhood and subjecting them to "unabated violations of their rights". CNN's Arwa Damon reports.]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/world/2020/01/30/syria-war-un-report-children-displaced-human-rights-damon-pkg-intl-ldn-vpx.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/world/2020/01/30/syria-war-un-report-children-displaced-human-rights-damon-pkg-intl-ldn-vpx.cnn
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 11:19:32 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130125032-syria-children-displaced-un-report-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[49ers general manager John Lynch meets ... CNN's John Lynch]]></title>
+   <description><![CDATA[San Francisco's "Captain America" has reached the Super Bowl. And so have I.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/sport/john-lynch-49ers-general-manager-spt-intl/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/sport/john-lynch-49ers-general-manager-spt-intl/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 15:59:08 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200129123130-01-john-lynch-0119-restricted-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[A mirrored heart lands in Times Square ]]></title>
+   <description><![CDATA[The winning entry for the 2020 Times Square Valentine Heart Design Competition has been unveiled in Manhattan, where it will be on display until the end of February. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/style/article/heart-squared-times-square-nyc/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/style/article/heart-squared-times-square-nyc/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 15:49:03 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131154309-gettyimages-1197630928-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Intuitive eating: The anti-diet, or how pleasure from food is the answer, say its creators]]></title>
+   <description><![CDATA[Call it the anti-diet. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/health/intuitive-eating-no-diet-wellness/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/health/intuitive-eating-no-diet-wellness/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 15:31:44 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180319142018-happy-woman-eating-fruit-salad-stock-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[New emoji release to feature more gender-inclusive designs and a popular Italian hand gesture]]></title>
+   <description><![CDATA[The transgender flag, women wearing tuxedos, bottle-feeding parents and a gender-neutral Santa are part of of the new 2020 emoji update from the Unicode Consortium, a nonprofit organization that sets the standards for emoji compatibility and releases new symbols. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/style/article/new-emoji-2020-gender-inclusive-scli/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/style/article/new-emoji-2020-gender-inclusive-scli/index.html
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 22:06:22 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130133805-new-2020-emoji-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Lizzo and Harry Styles performing 'Juice' is all you need today]]></title>
+   <description><![CDATA[What's better than Lizzo performing her hit song "Juice?" Well, Harry Styles performing with her, naturally.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/entertainment/lizzo-harry-styles-juice-trnd/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/entertainment/lizzo-harry-styles-juice-trnd/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 16:01:59 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131102616-lizzo-harry-styles-trnd-restricted-use-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[10 of the dreamiest places in Georgia]]></title>
+   <description><![CDATA[Georgia may be small in size, but it still packs an astounding geographical punch. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/travel/article/georgia-beautiful-places/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/travel/article/georgia-beautiful-places/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 13:25:36 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/170809133543-hiking-in-georgia---gergeti-trinity-church---kirill-kudryavtsev-getty-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[2020 Super Bowl ads: Trump vs. Bloomberg]]></title>
+   <description><![CDATA[President Donald Trump and Democratic presidential candidate Michael Bloomberg have each spent millions of dollars on TV ads for the 2020 Super Bowl. Chris Cillizza explains what this unprecedented ad buy means in the 2020 race.]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/politics/2020/01/30/trump-bloomberg-super-bowl-tv-ads-cillizza-the-point.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/politics/2020/01/30/trump-bloomberg-super-bowl-tv-ads-cillizza-the-point.cnn
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 17:14:14 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130115049-the-point-super-bowl-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Janeane Garofalo: Ed Norton cost me 'Fight Club' role]]></title>
+   <description><![CDATA[Way to forget the first rule of "Fight Club," Janeane Garofalo.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/30/entertainment/janeane-garofalo-fight-club-trnd/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/30/entertainment/janeane-garofalo-fight-club-trnd/index.html
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 18:49:15 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-live-video.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-story-body.jpg" height="146" width="246" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130094343-garofalo-norton-split-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[This robot hand can 'sweat' to stay cool ]]></title>
+   <description><![CDATA[Scientists have created a soft robot muscle that sweats to stay cool and mimics the movement of a hand.]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/30/europe/robot-hand-sweat-scli-intl-scn/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/30/europe/robot-hand-sweat-scli-intl-scn/index.html
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 14:27:31 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130100631-02-robot-hand-sweat-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Watch Berlin's baby pandas take first steps outdoors]]></title>
+   <description><![CDATA[Watch these panda cubs take their first steps outside and make their public debut in Zoo Berlin.]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/travel/2020/01/29/twin-baby-pandas-zoo-berlin-vc-orig.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/travel/2020/01/29/twin-baby-pandas-zoo-berlin-vc-orig.cnn
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 15:48:38 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title><![CDATA[Diesel truckers turn to new formula ]]></title>
+   <description><![CDATA[Transport accounts for more than a fifth of global CO2 emissions, by most estimates, and diesel-powered commercial trucks are big contributors. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/30/business/neutral-fuels-dubai/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/30/business/neutral-fuels-dubai/index.html
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 12:22:13 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130111251-neutral-fuels-road-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Third grader rushes to help when toddler starts choking]]></title>
+   <description><![CDATA[9-year-old Timothy Prather jumped into action and used the Heimlich maneuver when he saw his younger cousin Conner choking on a Life Savers candy. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/us/2020/01/30/9-year-old-saves-cousin-heimlich-maneuver-good-stuff-newday-vpx.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/us/2020/01/30/9-year-old-saves-cousin-heimlich-maneuver-good-stuff-newday-vpx.cnn
+   </guid>
+   <pubDate>
+    Thu, 30 Jan 2020 14:59:31 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130095149-9-year-old-saves-cousin-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Stunning new kind of Northern Lights discovered]]></title>
+   <description><![CDATA[A group of amateur Finnish amateur stargazers along with scientists from the University of Helsinki have discovered a new auroral phenomenon.]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/world/2020/01/29/northern-lights-new-form-dune-orig-tp-mg-2.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/world/2020/01/29/northern-lights-new-form-dune-orig-tp-mg-2.cnn
+   </guid>
+   <pubDate>
+    Wed, 29 Jan 2020 22:08:43 GMT
+   </pubDate>
+  </item>
+  <item>
+   <title><![CDATA[England's first two coronavirus patients confirmed | Canada evacuates diplomatic staff from China | 62 countries place immigration control on Chinese citizens]]></title>
+   <link>
+    https://www.cnn.com/asia/live-news/coronavirus-outbreak-01-31-20-intl-hnk/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/asia/live-news/coronavirus-outbreak-01-31-20-intl-hnk/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 14:35:36 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Top US  doctor: Wuhan virus can spread when people have no symptoms ]]></title>
+   <description><![CDATA[The nation's top infectious disease doctor says a new study published Thursday night shows people can spread the Wuhan coronavirus before symptoms set in.  ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/31/health/coronavirus-asymptomatic-spread-study/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/31/health/coronavirus-asymptomatic-spread-study/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 17:40:36 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200121035106-07-coronavirus-2020-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[China marks deadliest day of outbreak]]></title>
+   <description><![CDATA[China marked its most fatal day yet during the Wuhan coronavirus outbreak Thursday as the World Health Organization (WHO) declared the virus a global health emergency. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/30/asia/wuhan-coronavirus-update-intl-hnk/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/30/asia/wuhan-coronavirus-update-intl-hnk/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 10:08:11 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131092016-wuhan-0130-beijing-passengers-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[No pillows, no hot meals: Airlines adopt preventative measures]]></title>
+   <description><![CDATA[While multiple airlines have temporarily suspended all flights to China due to the coronavirus outbreak, those that are still flying to the country are adopting a series of measures to prevent the spread of the deadly disease. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/travel/article/wuhan-coronavirus-airlines-measures/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/travel/article/wuhan-coronavirus-airlines-measures/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 14:15:04 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200130223414-01-airline-coronavirus-prevention-0128-restricted-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[See hospitals being built for coronavirus patients in Wuhan]]></title>
+   <description><![CDATA[Thousands of workers and machines are working non-stop on two new hospitals for coronavirus patients in Wuhan, China. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/videos/world/2020/01/31/hospitals-being-built-urgently-for-coronavirus-patients-in-wuhan-china-lc-lon-orig.cnn
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/videos/world/2020/01/31/hospitals-being-built-urgently-for-coronavirus-patients-in-wuhan-china-lc-lon-orig.cnn
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 13:25:37 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131091948-wuhan-hospital-0130-01-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Meanwhile, another deadly virus has infected 15 million in the US]]></title>
+   <description><![CDATA[The novel coronavirus that's sickening thousands globally -- and at least five people in the US -- is inspiring countries to close their borders and Americans to buy up surgical masks quicker than major retailers can restock them. ]]>
+   </description>
+   <link>
+    https://www.cnn.com/2020/01/30/health/flu-deadly-virus-15-million-infected-trnd/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/2020/01/30/health/flu-deadly-virus-15-million-infected-trnd/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 18:01:51 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/180124143449-01-flu-virus-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Key GOP vote to announce decision on witnesses]]></title>
+   <description><![CDATA[• Why Senate Republicans will vote against witnesses
+• Impeachment trial to end but aftershocks will rock America]]>
+   </description>
+   <link>
+    https://www.cnn.com/politics/live-news/trump-impeachment-trial-01-31-20/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/politics/live-news/trump-impeachment-trial-01-31-20/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 16:59:58 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-vertical-gallery.jpg" height="360" width="270" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-story-body.jpg" height="169" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-assign.jpg" height="186" width="248" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131105708-102-trump-lead-image-hp-video.jpg" height="144" width="256" type="image/jpeg" />
+   </media:group>
+  </item>
+  <item>
+   <title><![CDATA[Two arrested after SUV breaches Mar-a-Lago security]]></title>
+   <link>
+    https://www.cnn.com/us/live-news/mar-a-lago-incident-january-2020/index.html
+   </link>
+   <guid isPermaLink="true">
+    https://www.cnn.com/us/live-news/mar-a-lago-incident-january-2020/index.html
+   </guid>
+   <pubDate>
+    Fri, 31 Jan 2020 18:17:27 GMT
+   </pubDate>
+   <media:group>
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-super-169.jpg" height="619" width="1100" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-large-11.jpg" height="300" width="300" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-vertical-large-gallery.jpg" height="552" width="414" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-video-synd-2.jpg" height="480" width="640" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-live-video.jpg" height="324" width="576" type="image/jpeg" />
+    <media:content medium="image" url="https://cdn.cnn.com/cnnnext/dam/assets/200131124010-03-mar-a-lago-incident-t1-main.jpg" height="250" width="250" type="image/jpeg" />
+    <media:content medium="image" 
