@@ -3,13 +3,13 @@ Consider a table named "employees" which has 2 columns id (Integer), and name (S
 
 #### question: Find name of the employee whose id is maximum
 
-```
+```sql
 SELECT name from employees ORDER BY id desc LIMIT 1
 ```
 
 #### question: Find all the names which occurred more than once
 
-```
+``` bash
 select * from employees t1 
 where (select count(*) from employees t2 
   where t1.name = t2.name) > 1 
