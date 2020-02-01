@@ -14,7 +14,7 @@ import java.util.TimerTask;
 public class Test {
     public static void main(String[] args) {
         Task1 t1= new Task1 ("Task1");
-         Task2 t2=new Task2("Task2");
+        Task2 t2=new Task2("Task2");
         Timer time1 = new Timer();
         time1.scheduleAtFixedRate(t1, 0,15*1000);
         Timer time2 = new Timer();
@@ -74,11 +74,13 @@ public class Test {
             Elements images = doc.getElementsByTag("media:group");
 
             Elements jpg_images = images.select("[url$=.jpg]");
+            
             for (Element image : jpg_images){
 
                 // clear previous screen
                 System.out.print("\033[H\033[2J");
                 System.out.flush();
+                
                 // print image source list
                 System.out.println(image);
            }
