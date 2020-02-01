@@ -9,7 +9,7 @@ SELECT name from employees ORDER BY id desc LIMIT 1
 
 #### question: Find all the names which occurred more than once
 
-``` bash
+``` sql
 select * from employees t1 
 where (select count(*) from employees t2 
   where t1.name = t2.name) > 1 
@@ -20,7 +20,7 @@ order by t1.name;
 
 #### question: Find the name(s) which occurred most number of times
 
-```
+``` sql
 SELECT name,
     count(*) AS counts
 FROM
